@@ -1,8 +1,13 @@
 Entry and Stat View
   - Hollow Circle (Nate)
     - Black (Transparent)
+    - Red
   - Filled Circle (Nate)
     - Black
+    - Red
+  - x for shot
+    - black
+    - red
   - Plus Button (Nate)
     - Red with white plus
   - Soccer Ball (Taylor)
