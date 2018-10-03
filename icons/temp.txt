@@ -1,1 +1,13 @@
-This is a temp file so that the folder will get published to the repo, once there are other files in this directory this file can be deleted.
+Entry and Stat View
+  - Hollow Circle (Nate)
+    - Black (Transparent)
+  - Filled Circle (Nate)
+    - Black
+  - Plus Button (Nate)
+    - Red with white plus
+  - Soccer Ball (Taylor)
+  - Soccer Goal (Nate)
+  - Basketball (Taylor)
+  - Basetball Hoop (Tyler)
+  - Soccer Field (Tyler)
+  - Basketball Court (Tyler)
