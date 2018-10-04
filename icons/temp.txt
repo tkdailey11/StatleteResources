@@ -5,7 +5,7 @@ Entry and Stat View
   - Filled Circle (Nate)
     - Black
     - Red
-  - x for shot
+  - x for shot (Nate)
     - black
     - red
   - Plus Button (Nate)
